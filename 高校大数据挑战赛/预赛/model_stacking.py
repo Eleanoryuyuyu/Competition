@@ -40,7 +40,7 @@ def main():
 
     for j, clf in enumerate(clfs):
         '''依次训练各个单模型'''
-        print('training model:', j + 1)
+        print('training embed_model:', j + 1)
         dataset_blend_test_j = np.zeros((test_data.shape[0], n_fold))
         for i, (train_index, val_index) in enumerate(sfd.split(split_data, split_label)):
             X_train = split_data[train_index]

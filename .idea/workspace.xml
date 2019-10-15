@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a57b59d5-9571-49d7-b889-cdf6a5e0a3bf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/高校大数据挑战赛/正式赛/data_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高校大数据挑战赛/正式赛/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高校大数据挑战赛/正式赛/model/nn_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高校大数据挑战赛/正式赛/read_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高校大数据挑战赛/正式赛/word_embed.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高校大数据挑战赛/预赛/model_stacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/高校大数据挑战赛/预赛/model_stacking.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,40 +19,62 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Competition$model_mnb.coverage" NAME="model_mnb Coverage Results" MODIFIED="1571105464503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高校大数据挑战赛/预赛/data" />
+    <SUITE FILE_PATH="coverage/Competition$main.coverage" NAME="main Coverage Results" MODIFIED="1571119159538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高校大数据挑战赛/正式赛" />
     <SUITE FILE_PATH="coverage/Competition$model_mnb__1_.coverage" NAME="model_mnb (1) Coverage Results" MODIFIED="1571107540359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高校大数据挑战赛/预赛" />
     <SUITE FILE_PATH="coverage/Competition$model_lr.coverage" NAME="model_lr Coverage Results" MODIFIED="1571106871068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高校大数据挑战赛/预赛" />
     <SUITE FILE_PATH="coverage/Competition$model_stacking.coverage" NAME="model_stacking Coverage Results" MODIFIED="1571107549264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高校大数据挑战赛/预赛" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="text_process.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/预赛/text_process.py">
+      <file leaf-file-name="read_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/read_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-158">
+            <state relative-caret-position="372">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
               <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
               <folding>
-                <element signature="e#1#10#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model_stacking.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/预赛/model_stacking.py">
+      <file leaf-file-name="nn_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/model/nn_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="372">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model_mnb.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/预赛/model_mnb.py">
+      <file leaf-file-name="word_embed.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/word_embed.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="-2052">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_process.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/data_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding>
-                <element signature="e#0#38#0" expanded="true" />
+                <element signature="e#0#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,6 +102,13 @@
         <option value="$PROJECT_DIR$/高校大数据挑战赛/预赛/model_mnb.py" />
         <option value="$PROJECT_DIR$/高校大数据挑战赛/预赛/model_lr.py" />
         <option value="$PROJECT_DIR$/高校大数据挑战赛/预赛/model_stacking.py" />
+        <option value="$PROJECT_DIR$/高校大数据挑战赛/正式赛/read_data.py" />
+        <option value="$PROJECT_DIR$/高校大数据挑战赛/正式赛/model.py" />
+        <option value="$PROJECT_DIR$/高校大数据挑战赛/正式赛/glove_word.py" />
+        <option value="$PROJECT_DIR$/高校大数据挑战赛/正式赛/word_embed.py" />
+        <option value="$PROJECT_DIR$/高校大数据挑战赛/正式赛/model/model_biGRU.py" />
+        <option value="$PROJECT_DIR$/高校大数据挑战赛/正式赛/data_process.py" />
+        <option value="$PROJECT_DIR$/高校大数据挑战赛/正式赛/main.py" />
       </list>
     </option>
   </component>
@@ -110,6 +145,19 @@
               <item name="Competition" type="b2602c69:ProjectViewProjectNode" />
               <item name="Competition" type="462c0819:PsiDirectoryNode" />
               <item name="高校大数据挑战赛" type="462c0819:PsiDirectoryNode" />
+              <item name="正式赛" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competition" type="462c0819:PsiDirectoryNode" />
+              <item name="高校大数据挑战赛" type="462c0819:PsiDirectoryNode" />
+              <item name="正式赛" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competition" type="462c0819:PsiDirectoryNode" />
+              <item name="高校大数据挑战赛" type="462c0819:PsiDirectoryNode" />
               <item name="预赛" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -132,6 +180,7 @@
       <recent name="I:\机器学习\recommendation\Competition\高校大数据挑战赛\预赛\preprocess" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\机器学习\recommendation\Competition\高校大数据挑战赛\正式赛\data" />
       <recent name="I:\机器学习\recommendation\Competition\高校大数据挑战赛\预赛\data" />
     </key>
   </component>
@@ -147,7 +196,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.model_stacking">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Competition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高校大数据挑战赛/正式赛" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高校大数据挑战赛/正式赛/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="model_lr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Competition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,9 +297,11 @@
       <item itemvalue="Python.model_mnb (1)" />
       <item itemvalue="Python.model_lr" />
       <item itemvalue="Python.model_stacking" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.model_stacking" />
         <item itemvalue="Python.model_mnb (1)" />
         <item itemvalue="Python.model_lr" />
@@ -254,22 +324,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.3324397" side_tool="true" visible="true" weight="0.16547789" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47075605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66756034" visible="true" weight="0.16547789" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32952926" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
+      <window_info anchor="bottom" id="Terminal" weight="0.46077034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.32952926" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -312,16 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/预赛/text_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#1#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/预赛/model_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
@@ -332,10 +393,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/预赛/text_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/data/train_data.sample">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619938">
+          <caret line="19998" column="48" lean-forward="true" selection-start-line="19998" selection-start-column="48" selection-end-line="19998" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/data/train_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1302" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/labeled_content">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/read_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/预赛/model_stacking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="-465">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/data_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/word_embed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2052">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/model/nn_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高校大数据挑战赛/正式赛/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
